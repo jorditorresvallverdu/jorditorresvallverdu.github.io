@@ -1,4 +1,4 @@
-# Jordi Torres Vallverdú
+
 
 PhD student at the Toulouse School of Economics (TSE).
 
