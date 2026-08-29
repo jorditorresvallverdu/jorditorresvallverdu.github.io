@@ -8,10 +8,9 @@ research, code and teaching material. It's a work in progress.
 
 ## Research
 
+---
+
 ## Code
 
 
-## Contact
-
-- [jordi.torresvallverdu@tse-fr.eu](mailto:jordi.torresvallverdu@tse-fr.eu)
-- [GitHub](https://github.com/jorditorresvallverdu)
+---
