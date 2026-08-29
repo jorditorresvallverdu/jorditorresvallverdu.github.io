@@ -1,0 +1,34 @@
+remote_theme: "mmistakes/minimal-mistakes@4.28.1"
+minimal_mistakes_skin: "default"
+
+title: "Jordi Torres Vallverdú"
+description: "PhD student in economics at the Toulouse School of Economics."
+url: "https://jorditorresvallverdu.github.io"
+locale: "en-GB"
+
+author:
+  name: "Jordi Torres Vallverdú"
+  avatar: "/assets/images/profile.jpg"
+  bio: "PhD student, Toulouse School of Economics"
+  location: "Toulouse, France"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:jordi.torresvallverdu@tse-fr.eu"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/jorditorresvallverdu"
+
+plugins:
+  - jekyll-include-cache
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
