@@ -36,11 +36,3 @@ atom_feed:
   hide: true
 
 
-
-main:
-  - title: "About"
-    url: /
-  - title: "Research"
-    url: /research/
-  - title: "Material"
-    url: /material/
