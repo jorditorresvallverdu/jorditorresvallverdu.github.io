@@ -1,16 +1,14 @@
 
 
-PhD student at the Toulouse School of Economics (TSE).
-
-I work on labour economics and industrial organization, with a particular
-interest in where the two intersect with education. This page collects my
-research, code and teaching material. It's a work in progress.
-
-## Research
-
+---
+title: "About"
+permalink: /
 ---
 
-## Code
+I am a PhD student in economics at the [Toulouse School of Economics](https://www.tse-fr.eu/),
+supervised by [Olivier De Groote](https://sites.google.com/view/olivierdegroote).
 
+My research uses structural econometrics to study questions in labor economics,
+industrial organization and the economics of education. 
 
----
+Papers and teaching material will be posted here as they come. This is work in progress.
